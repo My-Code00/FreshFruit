@@ -6,7 +6,7 @@ BucketEventListener berfungsi untuk mendeklarasi void onSucceed dan onFailed yan
 
 2. Buatlah class diagram !
 
-<img src="ClassDiagram.Png" width="100%"/> 
+<img src="ClassDiagram.png" width="100%"/> 
 
 3. Berilah Pembahasan Alur atau logika pemrogramannya !
 
