@@ -120,4 +120,4 @@ Pada Class ini digunakan untuk menghubungkan bucket dan interface yang mana nant
 
 Dan yang terakhir Class MainWindow, tinggal deklarasi dan pangil memanggil dari fungsi yang sudah ada. Berikut hasil nya :
 
-<img src="FreshFruit/ScreenShot/Hasil.PNG" width="350"/> 
+<img src="FreshFruit/ScreenShot/Hasil.PNG" width="100%"/> 
